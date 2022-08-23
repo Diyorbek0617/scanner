@@ -22,6 +22,6 @@ About(BuildContext context){
 
 String txt(){
   return
-    "Dastur Nizomiddinov Diyorbekning 'Google Maps'ni o'rganishi davomida yaratilgan dastur.\n"
+    "Dastur Nizomiddinov Diyorbekning 'QR code'ni o'rganishi davomida yaratilgan dastur.\n"
         "Dasturda turli xildagi xatoliklar yuzaga kelishi mumkin.";
 }
